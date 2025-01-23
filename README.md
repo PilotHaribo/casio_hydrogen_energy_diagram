@@ -7,9 +7,9 @@ Connect Casio fx-9860 GIII or GII to your Computer with the help of the USB cabl
 Press [F1]<br>
 <br>
 Open the file manager of your operating system and insert the ETSH2.G1A file into <br>
-the shown device (usually D:).<br>
+the shown device (usually D: or E:).<br>
 <br>
-Eject device (usually D:). More info on calculator display.<br>
+Eject device (usually D: or E:). More info on calculator display.<br>
 <br>
 Press [EXE] as shown on the screen.<br>
 Press [EXIT] as shown on the screen.<br>
@@ -40,9 +40,9 @@ show Lyman-Series [F3]
 
 show Paschen-Series [F4]
 
-show brackett-Series [F5]
+show Brackett-Series [F5]
 
-show list of all energy differences fith corresponding wavelength [F6]
+show list of all energy differences with corresponding wavelength [F6]
 
 ## Changelog
 
